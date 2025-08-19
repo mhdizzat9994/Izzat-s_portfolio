@@ -8,8 +8,14 @@ Analytics Portfolio
 
 <h2>Certifications</h2>
  
- - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/KMVYS7XVS1VC)
- - [Data Analysis and Visualization with Power BI](https://www.coursera.org/account/accomplishments/verify/2IKIJMJVK8DL)
+ - [Databases and SQL for Data Science with Python -IBM](https://www.coursera.org/account/accomplishments/verify/KMVYS7XVS1VC)
+ - [Data Analysis and Visualization with Power BI -Microsoft](https://www.coursera.org/account/accomplishments/verify/2IKIJMJVK8DL)
+ - [Data Modeling in Power BI-Microsoft](https://www.coursera.org/account/accomplishments/verify/7WLW3BV7S740)
+ - [Extract, Transform and Load Data in Power BI -Microsoft](https://www.coursera.org/account/accomplishments/verify/11KNG4K6ISZZ)
+ - [Harnessing the Power of Data with Power BI-Microsoft](https://www.coursera.org/account/accomplishments/verify/PEVV4NG9CK4U)
+ - [Preparing Data for Analysis with Microsoft Excel-Microsoft](https://www.coursera.org/account/accomplishments/verify/JJR4899M1A9B)
+ - [Python for Data Science, AI & Development-IBM](https://www.coursera.org/account/accomplishments/verify/ETZ6T89CPQWY)
+ - [Excel Basics for Data Analysis -IBM](https://www.coursera.org/account/accomplishments/verify/CAA9R4M2PV75)
    
    
 
