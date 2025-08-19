@@ -5,7 +5,7 @@ Analytics Portfolio
   <b2>👨‍💻 Development Projects:</b2>
 
 - <b2>SQL Projects</b2>
-  - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/KMVYS7XVS1VC)
+  - [Dummy project](https://github.com/mhdizzat9994/Sql-Portfolio/tree/main)
 
 <h2>Certifications</h2>
  
