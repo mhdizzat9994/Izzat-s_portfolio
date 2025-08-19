@@ -1,7 +1,8 @@
 # Izzat-s_portfolio
 Analytics Portfolio
 <h1>Hi, I'm Izzat! <br/><a href="https://github.com/joshmadakor1">Junior Data Analyst</a>, <a href="https://www.linkedin.com/in/mohd-izzat-bin-abd-ghani-9552a910b/">Platform Validation Engineer</a>
-<b2>👨‍💻 Development Projects:</b2>
+
+  <b2>👨‍💻 Development Projects:</b2>
 
 - <b2>SQL Projects</b2>
   - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/KMVYS7XVS1VC)
