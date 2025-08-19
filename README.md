@@ -19,7 +19,10 @@ Analytics Portfolio
  - [Excel Basics for Data Analysis -IBM](https://www.coursera.org/account/accomplishments/verify/CAA9R4M2PV75)
    
    
+- [reference sql project 1](https://github.com/NateMacDonald/PortfolioProjects/tree/main)
+- [reference sql project 2](https://github.com/kamararichards/SQL-Portfolio-Projects)
 
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
