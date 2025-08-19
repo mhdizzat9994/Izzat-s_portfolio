@@ -9,6 +9,9 @@ Analytics Portfolio
 <h2>Certifications</h2>
  
  - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/KMVYS7XVS1VC)
+ - [Data Analysis and Visualization with Power BI](https://www.coursera.org/account/accomplishments/verify/2IKIJMJVK8DL)
+   
+   
 
 <h2> 🤳 Connect with me:</h2>
 
